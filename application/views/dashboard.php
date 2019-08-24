@@ -1,4 +1,4 @@
-<?php foreach (array('User', 'Role'/*additionalEntity*/) as $controller) : ?>
+<?php foreach (array('User', 'Role', 'Infaq', 'Jamaah', 'JatahDesa', 'JatahDesaDetail', 'Kemampuan', 'Struk', 'StrukDetail', 'Kas', 'Masjid', 'Qurban', 'KasRemaja'/*additionalEntity*/) as $controller) : ?>
 
 <div class="col-sm-2">
 	<a href="<?= site_url($controller) ?>">

@@ -14,6 +14,17 @@ class Permissions extends MY_Model {
           array ('text' => 'User', 'value' => 'User'),
           array ('text' => 'Role', 'value' => 'Role'),
           array ('text' => 'Permission', 'value' => 'Permission'),
+          array ('text' => 'Infaq', 'value' => 'Infaq'),
+          array ('text' => 'Jamaah', 'value' => 'Jamaah'),
+          array ('text' => 'JatahDesa', 'value' => 'JatahDesa'),
+          array ('text' => 'JatahDesaDetail', 'value' => 'JatahDesaDetail'),
+          array ('text' => 'Kemampuan', 'value' => 'Kemampuan'),
+          array ('text' => 'Struk', 'value' => 'Struk'),
+          array ('text' => 'StrukDetail', 'value' => 'StrukDetail'),
+          array ('text' => 'Kas', 'value' => 'Kas'),
+          array ('text' => 'Masjid', 'value' => 'Masjid'),
+          array ('text' => 'Qurban', 'value' => 'Qurban'),
+          array ('text' => 'KasRemaja', 'value' => 'KasRemaja'),
           /*additionalEntity*/
         ),
         'width' => 4
